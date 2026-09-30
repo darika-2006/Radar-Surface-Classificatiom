@@ -1,0 +1,4 @@
+pyserial
+numpy
+websockets>=12.0
+PyQt5

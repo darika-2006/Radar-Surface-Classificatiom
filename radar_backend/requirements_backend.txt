@@ -1,0 +1,3 @@
+pyserial
+numpy
+websockets>=12.0
